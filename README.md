@@ -3,7 +3,7 @@
  ### Paper
 [C. Stylianides, E. Toulkeridou, P. Kosmidou, M. S. Pattichis, and A. S. Panayides, “Explainable Complication Status Prediction After Tracheostomy Procedure,” in 2026 IEEE 39th International Symposium on Computer-Based Medical Systems (CBMS), 2026, pp. 252–257. doi: 10.1109/CBMS69103.2026.00063.](https://doi.org/10.1109/CBMS69103.2026.00063)
 
-DOI: 10.5281/zenodo.24505245
+[DOI: 10.5281/zenodo.24505245](https://doi.org/10.5281/zenodo.24505149)
 
 ### Aim
 
